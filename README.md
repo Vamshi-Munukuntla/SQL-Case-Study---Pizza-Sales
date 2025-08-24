@@ -1,2 +1,1 @@
-# SQL-Case-Study---Pizza-Sales
-Pizza Sales SQL Case Study
+# SQL Case Study - Pizza Sales
